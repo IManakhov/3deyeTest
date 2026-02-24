@@ -1,0 +1,6 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/3DeyeTest/generated.txt
+3DeyeTest/generated.txt
